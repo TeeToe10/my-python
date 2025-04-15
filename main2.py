@@ -37,3 +37,4 @@ love_english = False
 print(f"{name3} has {num3} mansions")
 print(f"{name4} has {dollars2} dollars")
 print(f"{name5} loves english: {love_english}")
+print(num2 + num3)
